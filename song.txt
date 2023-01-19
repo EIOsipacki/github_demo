@@ -12,3 +12,6 @@ line3
 line 4
 line 5
 lines 6
+
+sword and spear
+wall of shields
